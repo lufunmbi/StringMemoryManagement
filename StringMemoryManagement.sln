@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NickChapsas2", "NickChapsas2.csproj", "{59587EE2-831E-4A02-8C3A-C3934F87A013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMemoryManagement", "StringMemoryManagement.csproj", "{59587EE2-831E-4A02-8C3A-C3934F87A013}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

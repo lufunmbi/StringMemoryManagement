@@ -3,7 +3,7 @@ using BenchmarkDotNet.Running;
 using System;
 using System.Text;
 
-namespace NickChapsas2
+namespace StringMemoryManagement
 {
     class Program
     {
